@@ -1,4 +1,4 @@
-# uckett HTML book  chapter 2 
+# Duckett HTML book  chapter 2 
 ## Text in Word mean something else in HTML :
  Headings and paragraphs Bold, italic, emphasis  Structural and semantic markup.
 
