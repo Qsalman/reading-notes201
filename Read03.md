@@ -1,3 +1,6 @@
+# Duckett HTML book chapter 3
+
+
 Sometimes you want numbered lists:
 
 1. One
@@ -53,6 +56,10 @@ one of two values:
 2-scroll This property adds a scrollbar to the box so that users can scroll to see the missing content.
 
 
+
+# Duckett HTML book chapter 13
+
+
 ### Every box has three available properties that can be adjusted to control its appearance:
 1-Border
 2-Margin
@@ -75,7 +82,7 @@ in pixels or using one of the following values:
 - border-bottom-width
 - border-left-width
 
-You can control the style of a border using the border-style property. This property can take the following values:
+##### You can control the style of a border using the border-style property. This property can take the following values:
 1- solid
 2-dotted
 3-dashed
