@@ -1,2 +1,9 @@
 # reading-notes201
 [Reading 02](class-02.md)
+[Reading 03](class-03.md)
+[Reading 04](class-04.md)
+[Reading 05](class-05.md)
+[reading 06](class-06.md)
+[reading 07](class-07.md)
+[reading 08](class-08.md)
+[reading 09](class-09.md)
